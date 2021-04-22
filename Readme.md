@@ -1,4 +1,4 @@
-# SBE 304 - Biostatistics 
+# SBE 304 - Biostatistics (Fall 2020)
 ## **Course Project**
 
 ## Project Description
